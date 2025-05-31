@@ -1,0 +1,15 @@
+# Ignore all .log files
+*.log
+
+# Ignore directories
+build/
+images/
+
+# Ignore system files
+
+# Ignore IDE files
+.vscode/
+
+# Ignore Python compiled files (example)
+__pycache__/
+
