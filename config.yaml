@@ -1,0 +1,5 @@
+os_image:
+  type: download
+  url: "https://downloads.raspberrypi.org/raspios_lite_armhf_latest"
+  path: "./images/raspios_lite.img.xz"
+  auto_extract: true
